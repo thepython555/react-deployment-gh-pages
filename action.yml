@@ -1,4 +1,4 @@
-name: 'Build and Deploy React app to GitHub Pages'
+name: 'Build and Deploy React app to GitHub Pages with compatibility for yarn.'
 description: 'GitHub Action to build and deploy React app in gh-pages branch.'
 author: 'dumorando'
 branding:
