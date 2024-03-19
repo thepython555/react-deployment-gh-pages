@@ -1,6 +1,6 @@
 name: 'Build and Deploy React app to GitHub Pages'
 description: 'GitHub Action to build and deploy React app in gh-pages branch.'
-author: 'omkartapale'
+author: 'dumorando'
 branding:
   color: 'yellow'
   icon: code
@@ -9,7 +9,7 @@ runs:
   steps: 
     - run : npm i
       shell: bash
-    - run : npm ci
+    - run : npm install
       shell: bash
     - run : npm run build
       shell: bash
