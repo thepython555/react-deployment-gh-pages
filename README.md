@@ -1,3 +1,5 @@
+# dont use this action!
+
 ## Build and Deploy React app to GitHub Pages
 
 This GitHub Workflow Action will automate the process of building and deploying React app to GitHub page into `gh-pages` branch.
